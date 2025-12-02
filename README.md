@@ -4,7 +4,7 @@ Este proyecto es una aplicación web que permite buscar imágenes de alta calida
 
 ## Demo
 
-Para mirar la demo del proyecto visita: [Pixabay Image Explorer](https://mariokarajallo.github.io/pixabay-image-explorer-js/)
+Para mirar la demo del proyecto visita: [Pixabay Image Explorer](https://pixabay-image-explorer-js.netlify.app/)
 
 ![preview](pixabay-image-explorer.gif)
 
