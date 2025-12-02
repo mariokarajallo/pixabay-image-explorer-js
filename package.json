@@ -1,0 +1,17 @@
+{
+  "name": "pixabay-image-explorer",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación web que permite buscar imágenes de alta calidad utilizando la API de Pixabay. Diseñada para ser rápida y fácil de usar, ofrece una interfaz limpia para explorar y visualizar resultados de imágenes.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.2.6"
+  }
+}

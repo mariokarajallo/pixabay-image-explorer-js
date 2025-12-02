@@ -55,7 +55,7 @@ function mostrarAlerta(mensaje) {
 
 async function buscarImagenes() {
   const termino = document.querySelector("#termino").value;
-  const key = "8722925-77095ecbf430e624a938ffd7d";
+  const key = import.meta.env.VITE_API_KEY;
   const url = `https://pixabay.com/api/?key=${key}&q=${termino}&per_page=${registroPorPagina}&page=${paginaActual}`;
 
   // implementando fetch
